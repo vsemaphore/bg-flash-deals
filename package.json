@@ -1,0 +1,12 @@
+{
+  "name": "bg-flash-deals",
+  "version": "0.0.1",
+  "description": "Console tool for getting \"flash deals\" items that we're interested in.",
+  "author": "Michał Buczek <michal@buczek.cc>",
+  "main": "bg.js",
+  "dependencies": {
+    "cli": "^1.0.0",
+    "request": "^2.75.0"
+  },
+  "license": "MIT"
+}
